@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>El titulo</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <h1>Lee</h1>
+        <p>Lee leee y lee</p>"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png">
+        <a href="https://www.python.org/">go here</a>
+        <ul>
+            <li>primer</li>
+            <li>segundo</li>
+        </ul>
+
+        <form action="">
+            <label for="">Put your user name</label><br>
+            <input type="text">
+            <label for="">put your password</label>
+            <input type="password">
+            <select name="" id="">
+                <option value="">opcion 1</option>
+                <option value="">opcion 2</option>
+            </select>
+        </form>
+        <br>
+    </body>
+
+</html>
